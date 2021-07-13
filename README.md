@@ -2,6 +2,8 @@
 
 - mo comentario
 
+![Mi imagen](resources/Theater_Outcomes_vs_Launch.png)
+
 ## Overview of Project
 
 ### Purpose
