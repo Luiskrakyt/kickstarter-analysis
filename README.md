@@ -3,6 +3,7 @@
 - mo comentario
 
 ![Mi imagen](resources/Theater_Outcomes_vs_Launch.png)
+![mi imagen](resources/)
 
 ## Overview of Project
 
