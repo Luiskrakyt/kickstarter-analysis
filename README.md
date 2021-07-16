@@ -3,26 +3,26 @@
 - mo comentario
 
 ![Mi imagen](resources/Theater_Outcomes_vs_Launch.png)
-![mi imagen](resources/)
+![mi imagen](resources/Outcomes_vs_Goals.png)
 
 ## Overview of Project
 
-### Purpose
+### The pourpous of this excel file and the two graphs is to let you know what are your best options for your campaign, options like when to release it, how long should it be, calculating how much your pledge must be and also how much your budget should be to succeed.
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
+### Your best time of the year to launch your campaign is between may and june.
 
-### Analysis of Outcomes Based on Goals
+### For your goal you have two options: it to be between $1000 and $5000 to have an 80% chance to succeed, or your second option is between $40000 and $45000 and the chances are almost the same as to do have an outcome of $1000, just like a 5% less chance but i would risk it. You wanted to have a goal of $10000, but it's a 50/50 chance to accomplish that, so my advise is to take one of the options that I gave you.
 
 ### Challenges and Difficulties Encountered
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- The best option is to launch the campaign between may and june, there stand the most successful campaigns.
 
-- What can you conclude about the Outcomes based on Goals?
+- You really should lower or grow your goal, the number you have in mind is not so succesful like the ones i gave you.
 
-- What are some limitations of this dataset?
+- the only thing i couldn't do and i recomend to know is the time your campaign should last.
 
-- What are some other possible tables and/or graphs that we could create?
+- Also it would have been useful to know in how much time you would've had the amount for the play.
